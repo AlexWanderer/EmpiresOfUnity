@@ -1,7 +1,9 @@
-Empires Of Unity: GIT Conflicts
+Empires Of Unity
 ==============
 
-Empires Of Unity - An Epic Real Time Strategy (RTS) Game
+![](http://www.game-coding.com/media/EoU_GIT_Conflict_Teaser.jpg)
+
+Empires Of Unity - Prototype of the most epic RTS Game
 
 Credits
 ======
@@ -10,17 +12,14 @@ Credits
 * University:	SAE Hamburg, Germany
 * Version: 		0.1
 * Date: 	    2014
-* Website: 	http://www.game-coding.com/3d-rts-game
+* Website: 	http://www.game-codi.ng/3d-rts-game
 * GitHub: 	https://github.com/DarioDomiDE/EmpiresOfUnity
-* Copyright (c) 2014
-* Support: moin@game-coding.com
 
 Credits
 ======
 
 Development & Programming by
   * Kalle Münster
-  * Lucas Nowak
   * Dario D. Müller
 
 Infos
